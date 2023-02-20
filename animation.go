@@ -5,8 +5,8 @@ import (
 	_ "image/png"
 	"log"
 
-	"github.com/hajimehoshi/ebiten/ebitenutil"
 	"github.com/hajimehoshi/ebiten/v2"
+	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
 )
 
 var (

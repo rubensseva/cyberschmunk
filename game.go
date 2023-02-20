@@ -28,7 +28,7 @@ const (
 
 	chipmunkSize = 32
 
-	totNumEnemies = 30
+	totNumEnemies = 200
 )
 
 var (
